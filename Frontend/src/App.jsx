@@ -4,7 +4,7 @@ import axios from 'axios';
 import './App.css';
 
 
-const API_URL = 'http://localhost:5001/api'; 
+const API_URL = 'https://ai-summairizer.onrender.com/api'; 
 
 function App() {
   // State to hold the values from the input fields
